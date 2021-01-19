@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/6zJffE1wHyAu5WwNYwt0VI)
 
 ### Connect with me:
 
@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="chitrakshbotwala's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Void05&show_icons=true&hide_border=true" />
+  <img align="left" alt="Void05's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Void05&show_icons=true&hide_border=true" />
 
 </details>
 
